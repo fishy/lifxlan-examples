@@ -1,0 +1,4 @@
+github.com/fishy/go-flagutils v0.1.0 h1:X4r/xKpntHbNHcoX9pRzNCTOsQr9ZoVgN7nhN54k4aI=
+github.com/fishy/go-flagutils v0.1.0/go.mod h1:pWery4Vdv/YsnzrUJVIJNQ32nW1aV83VZBSmpNKkHcg=
+github.com/fishy/lifxlan v0.1.0 h1:iBhpv46KRbYS4+Nv59c1afz3hqPa+c7k773Rsp3a97Y=
+github.com/fishy/lifxlan v0.1.0/go.mod h1:Ijs9qnTstC/eOLGrUC/+7fdfFpFwLsFejGL5DdT1wPo=
