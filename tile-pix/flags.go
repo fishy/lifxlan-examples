@@ -75,19 +75,17 @@ func init() {
 		flag.PrintDefaults()
 	}
 
-	flagutils.GroupOneOf(&loop, &still)
-
 	flag.Var(
 		&loop,
 		"loop",
 		"After fully shown the picture, loop over instead of reverting to the original colors. Unsets -still.",
 	)
-
 	flag.Var(
 		&still,
 		"still",
-		"Shrink the picture to fully fit inside the tile boundaries and display still instead of scrolling. Unsets -loop.",
+		"Shrink the picture to fully fit inside the tile boundaries and display still instead of scrolling. Unsets -loop, ignores -interval.",
 	)
+	flagutils.GroupOneOf(&loop, &still)
 
 	flag.Var(
 		&target,

@@ -60,7 +60,7 @@ var (
 	turnon = flag.Bool(
 		"turnon",
 		false,
-		"Turn on the device if it's not already on, and turn it off afterwards (when no loop args specified).",
+		"Turn on the device if it's not already on, and turn it off afterwards when -loop was not set.",
 	)
 
 	origColor = &flagutils.RGB{
@@ -81,7 +81,7 @@ func init() {
 	flag.Var(
 		origColor,
 		"color",
-		"The hex color to use, in format of `\"rrggbb\"`.",
+		"The hex color to use, in format of `rrggbb`.",
 	)
 	flag.Parse()
 }
