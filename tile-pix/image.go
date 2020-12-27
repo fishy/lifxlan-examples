@@ -10,8 +10,8 @@ import (
 	_ "image/jpeg"
 	_ "image/png"
 
-	"github.com/fishy/lifxlan"
-	"github.com/fishy/lifxlan/tile"
+	"go.yhsif.com/lifxlan"
+	"go.yhsif.com/lifxlan/tile"
 )
 
 func readImage(r io.Reader) (img image.Image, err error) {

@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	"github.com/fishy/lifxlan"
+	"go.yhsif.com/lifxlan"
 )
 
 func checkContextError(err error) bool {

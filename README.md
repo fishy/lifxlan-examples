@@ -1,9 +1,9 @@
 # LIFX LAN Examples
 
 This repository serves as the examples for both
-[`lifxlan`](https://godoc.org/github.com/fishy/lifxlan)
+[`lifxlan`](https://pkg.go.dev/go.yhsif.com/lifxlan)
 and
-[`go-flagutils`](https://godoc.org/github.com/fishy/go-flagutils)
+[`flagutils`](https://pkg.go.dev/go.yhsif.com/flagutils)
 packages.
 
 ## Examples
@@ -17,4 +17,4 @@ packages.
 
 ## License
 
-[BSD License](https://github.com/fishy/lifxlan-examples/blob/master/LICENSE).
+[BSD License](LICENSE).

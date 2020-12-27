@@ -4,8 +4,8 @@ import (
 	"flag"
 	"time"
 
-	"github.com/fishy/go-flagutils"
-	"github.com/fishy/lifxlan"
+	"go.yhsif.com/flagutils"
+	"go.yhsif.com/lifxlan"
 )
 
 var (

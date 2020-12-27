@@ -5,8 +5,8 @@ import (
 	"log"
 	"sync"
 
-	"github.com/fishy/lifxlan"
-	"github.com/fishy/lifxlan/tile"
+	"go.yhsif.com/lifxlan"
+	"go.yhsif.com/lifxlan/tile"
 )
 
 func findDevice(target lifxlan.Target) (td tile.Device) {
