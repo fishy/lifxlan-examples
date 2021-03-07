@@ -1,4 +1,4 @@
 go.yhsif.com/flagutils v0.2.0 h1:MVPdEZOTctSDd8fQ6CCeLlYTCneMY6pbGl1MWF9aJPc=
 go.yhsif.com/flagutils v0.2.0/go.mod h1:8ESSA1knO8Cqf5ugbFCZVFwg4qA6/rqwosc+M1aFWRk=
-go.yhsif.com/lifxlan v0.2.0 h1:om/SgnqNVipPTP+OjALs4BQgBM9OpBy5vA+4OBwQ8q4=
-go.yhsif.com/lifxlan v0.2.0/go.mod h1:6KStBI+zrDsqESGLT2b7OJbKLpeCT5WIURxx+r0JtTM=
+go.yhsif.com/lifxlan v0.3.0 h1:s2JzYVU9UiAYvyNPi0OnhDMZajePTfA1/TQmn0WJF80=
+go.yhsif.com/lifxlan v0.3.0/go.mod h1:6KStBI+zrDsqESGLT2b7OJbKLpeCT5WIURxx+r0JtTM=
